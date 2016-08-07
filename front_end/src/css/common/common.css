@@ -1,0 +1,30 @@
+.center-container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border: 3px solid green;
+}
+
+.title {
+    text-align: center;
+    margin: 25px;
+}
+
+.btn {
+    text-align:center;
+    padding: 10px;
+
+    background-color: #6fb270;
+
+    -moz-box-shadow: inset 0 0 5px 5px #fbf8ff;
+    -webkit-box-shadow: inset 0 0 5px 5px#FBF8FF;
+    box-shadow: inset 0 0 5px 5px #FBF8FF;
+}
+.btn:hover {
+    background-color: green;
+    cursor: hand;
+}
+
+.test {
+    border: 3px solid green;
+}

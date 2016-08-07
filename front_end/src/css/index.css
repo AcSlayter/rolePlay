@@ -1,0 +1,30 @@
+.bbd {
+	border: 1px solid black;
+}
+
+.game-actions-wrapper{
+	position: relative;
+	width: 50px;
+}
+
+.game-play-board {
+		width: 600px;
+		height: 600px;
+		position : relative;
+}
+
+.btn {
+	background-color: yellow;
+}
+
+
+@media screen and (max-width: 880px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+@media screen and (max-width: 440px) {
+    body {
+        background-color: lightblue;
+    }
+}

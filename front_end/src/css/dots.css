@@ -1,0 +1,29 @@
+.center-container {
+    width: 700px;
+    overflow: hidden;
+}
+.title {
+    width: 100px;
+}
+
+.board-container {
+    margin: 25px;
+    margin-top: 0;
+    width: 500px;
+
+    height: 500px;
+    float: left;
+
+    border: 3px solid black;
+}
+.info {
+    float:left;
+}
+
+.entity {
+    border: 3px solid blue;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    cursor:pointer;
+}
