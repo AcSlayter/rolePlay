@@ -66,7 +66,6 @@ public class SocketManagment {
 
     private void open_server_connection() {
         try {
-
             int port = 10007;
             serverSocket = new ServerSocket(port);
         } catch (IOException e) {
