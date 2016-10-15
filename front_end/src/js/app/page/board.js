@@ -25,7 +25,6 @@ define(["../../common/ButtonActions"], function(btnActions){
         return mButtons;
     }
 
-
     privateInit(buttonMappings());
 
     require(["app/module/gameBoard"]);

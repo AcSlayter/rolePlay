@@ -16,7 +16,7 @@ define(["../../common/ButtonActions"], function(btnActions){
         var mButtons = {};
 
         mButtons["play"] = function(){
-            window.open("dots.html","_self")
+            window.open("board.html","_self")
         };
 
         return mButtons;
